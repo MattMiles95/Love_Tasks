@@ -6,6 +6,7 @@ tasks:
   - command: . ${GITPOD_REPO_ROOT}/.vscode/uptime.sh &
 ports:
   - port: 8000
+  - port: 5432
 vscode:
   extensions:
     - ms-python.python
