@@ -1,3 +1,3 @@
-When using SQL Alchemy, enter the following console command in the terminal:
+When using PostgreSQL, enter the following console command in the terminal before using psql:
 
 set_pg
